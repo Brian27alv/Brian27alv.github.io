@@ -7,7 +7,9 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-Aqui encontrarás mis pasatiempos  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Me gusta la lectura es uno de mis pasatiempos favoritos
+
+I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 hello
 **Here is some bold text**
 
