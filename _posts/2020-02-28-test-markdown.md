@@ -16,3 +16,5 @@ Me encanta ensamblar robots
 La programación mas manejo es  JAVA, ARDUINO
 ![pro](http://i.imgur.com/0vNBQFD.png)
 
+También armo circuitos electronicos en protoboard y circuitos impresos
+![arm]([http://i.imgur.com/0vNBQFD.png](https://1.bp.blogspot.com/-wq_z4HT56ZU/WDCjCRh1zBI/AAAAAAAAC8w/tzn4V1Wa4u0GdGf2qCYA9GWRNHKCjCMdgCLcB/s1600/CIRCUITO.png))
