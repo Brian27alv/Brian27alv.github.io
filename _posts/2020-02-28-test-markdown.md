@@ -17,5 +17,5 @@ La programación mas manejo es  JAVA, ARDUINO
 ![pro](http://i.imgur.com/0vNBQFD.png)
 
 
-También armo circuitos electronicos en protoboard y circuitos impresos
+También armo circuitos electronicos en protoboard y circuitos impresos.
 ![arm](https://i.pinimg.com/originals/98/c2/7e/98c27ed7175aa9ab0f04ef41f8548f7b.png)
